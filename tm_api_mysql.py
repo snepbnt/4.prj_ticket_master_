@@ -7,14 +7,14 @@ import pymysql
 
 
 # tm api
-key = 'MjgcyrKaplY8O4DoxlTTWZRjN2DCkRuv'
-secret = '9S44Gxr0ALjH6eqb'
+key = [tm api 키]
+secret = [tm api secret 키]
 
 # mysql 계정
 host = 'localhost'
 name = 'root'
-password = 'jinwon15'
-database = 'ticket_master'
+password = [아이디]
+database = [비번]
 port = 3306
 
 
